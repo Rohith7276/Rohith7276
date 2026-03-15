@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-sigma-ten-51.vercel.app/)
 
-- 📄 Know about my experiences [RESUME]([https://drive.google.com/drive/home](https://drive.google.com/file/d/1PKBPleXt-NVqj1f0K6EFeliblvov8k6w/view?usp=drive_link))
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PKBPleXt-NVqj1f0K6EFeliblvov8k6w/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
